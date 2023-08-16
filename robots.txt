@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://https://teslajke.github.io/urinfo/sitemap.xml
+Sitemap: https://urinfo34.ru/sitemap.xml
